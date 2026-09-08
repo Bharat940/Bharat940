@@ -28,9 +28,9 @@ I split my time between low-level C++ (parsers, ray tracers, compilers) and Type
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="This year's activity" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 </p>
 
 ---
 
-![LeetCode stats](https://leetcard.jacoblin.cool/bharat940?theme=dark&font=baloo2&ext=heatmap)
+![LeetCode stats](https://leetcard.jacoblin.cool/bharat940?ext=heatmap&colors=1a1b27,24283b,c0caf5,c0caf5,bb9af7,9ece6a,e0af68,f7768e&font=baloo2)
