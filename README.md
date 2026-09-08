@@ -20,4 +20,6 @@ I split my time between low-level C++ (parsers, ray tracers, compilers) and Type
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharat940&show_icons=true&hide_border=true&theme=default)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Bharat940&show_icons=true&hide_border=true&hide_rank=true&theme=default) ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Bharat940&layout=compact&hide_border=true&theme=default)
+
+![LeetCode stats](https://leetcard.jacoblin.cool/bharat940?theme=light&font=baloo2&ext=heatmap)
