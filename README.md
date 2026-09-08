@@ -20,14 +20,17 @@ I split my time between low-level C++ (parsers, ray tracers, compilers) and Type
 
 ---
 
-**GitHub, in numbers** *(auto-updated daily)*
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="This year's activity" />
+</p>
 
-- 44 repositories · 15 contributed to
-- 816 commits · 16 PRs opened · 1 PRs reviewed · 1 issues opened
-- 1 stars earned · 2 years on GitHub
-
-**Top languages**
-`Python` — 40.6%  `TypeScript` — 31.9%  `C` — 12%  `JavaScript` — 6%  `Other` — 9.2%  
 ---
 
-![LeetCode stats](https://leetcard.jacoblin.cool/bharat940?theme=light&font=baloo2&ext=heatmap)
+![LeetCode stats](https://leetcard.jacoblin.cool/bharat940?theme=dark&font=baloo2&ext=heatmap)
