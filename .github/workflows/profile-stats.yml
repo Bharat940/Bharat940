@@ -24,12 +24,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
 
-      - name: Generate README.md from TEMPLATE.md
-        uses: devmount/profile-readme-stats@v1
-        with:
-          token: ${{ secrets.USER_TOKEN }}
-          template: TEMPLATE.md
-          readme: README.md
+      - name: Copy TEMPLATE.md to README.md
+        run: cp TEMPLATE.md README.md
 
       - name: Commit changes
         run: |
