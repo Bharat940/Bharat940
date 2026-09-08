@@ -20,6 +20,14 @@ I split my time between low-level C++ (parsers, ray tracers, compilers) and Type
 
 ---
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=Bharat940&show_icons=true&hide_border=true&hide_rank=true&theme=default) ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Bharat940&layout=compact&hide_border=true&theme=default)
+**GitHub, in numbers** *(auto-updated daily)*
+
+- 44 repositories · 15 contributed to
+- 816 commits · 16 PRs opened · 1 PRs reviewed · 1 issues opened
+- 1 stars earned · 2 years on GitHub
+
+**Top languages**
+`Python` — 40.6%  `TypeScript` — 31.9%  `C` — 12%  `JavaScript` — 6%  `Other` — 9.2%  
+---
 
 ![LeetCode stats](https://leetcard.jacoblin.cool/bharat940?theme=light&font=baloo2&ext=heatmap)
