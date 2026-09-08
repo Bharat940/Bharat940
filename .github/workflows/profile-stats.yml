@@ -9,12 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update-profile:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          user: Bharat940
+          theme: tokyonight
+        env:
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
 
       - name: Generate README.md from TEMPLATE.md
         uses: devmount/profile-readme-stats@v1
@@ -28,8 +36,8 @@ jobs:
           if [[ "$(git status --porcelain)" != "" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: update live stats"
+            git add README.md profile-summary-card-output
+            git commit -m "chore: update live profile stats"
             git push
           else
             echo "No changes to commit"
